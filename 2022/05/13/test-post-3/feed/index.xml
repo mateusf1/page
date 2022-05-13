@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments for Mateus A. Fernandes A. 	</title>
-	<atom:link href="http://localhost/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://mateusf1.github.io/page/</link>
+	Comments on: test post 3	</title>
+	<atom:link href="http://localhost/2022/05/13/test-post-3/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mateusf1.github.io/page/2022/05/13/test-post-3/</link>
 	<description>Personal Website &#124; Digital CV</description>
-	<lastBuildDate>Fri, 13 May 2022 22:26:46 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 May 2022 22:16:43 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
